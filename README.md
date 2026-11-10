@@ -16,5 +16,5 @@
 
 <div align="center">
     
-  ![snake gif](https://github.com/Acengwildan-tech/Acengwildan-tech/blob/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/Acengwildan-tech/Acengwildan-tech/output/github-snake-dark.svg)
 </div>
