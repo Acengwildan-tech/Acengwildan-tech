@@ -1,19 +1,71 @@
-
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hello+World!+👋;I'm+Laksana+Wildan+Laksana" alt="Typing SVG" />
 
+  <!-- Banner Nama -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Hello+World!+👋;I'm+Aceng+Wildan+Laksana;Web+Developer+&+IoT+Enthusiast+🤖" alt="Typing SVG" />
 
+  <br>
 
-  ![Visitors](https://komarev.com/ghpvc/?username=Acengwildan-tech&label=Profile+views&color=0e75b6&style=flat)  
+  <!-- Visitor Count & Status Badge -->
+  <img src="https://komarev.com/ghpvc/?username=Acengwildan-tech&label=Profile+Views&color=36BCF7&style=for-the-badge" alt="Visitors" />
+  <img src="https://img.shields.io/badge/Status-Building+Smart+Systems-0E75B6?style=for-the-badge&logo=probot&logoColor=white" alt="Status" />
 
-  <h3>SKILLS🚀</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,laravel,php," />
-  </a>
 </div>
 
+---
+
+### 🤖 About Me
+
+<table align="center">
+<tr>
+<td width="60%">
+
+- 🔭 **Currently Working On:** Integrating Web Dashboards with IoT Hardware.
+- 🌱 **Learning & Exploring:** Advanced Microcontrollers & Laravel Ecosystem.
+- 💡 **Core Passion:** Connecting the physical world (IoT) with powerful web backends (PHP/Laravel).
+- ☕ **Fun Fact:** Automating things around the house just because I can!
+
+</td>
+<td width="40%" align="center">
+
+  <!-- Ilustrasi Robot Futuristik (menggantikan gaya karakter pixel/game) -->
+  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=400&auto=format&fit=crop" width="220px" alt="Robot Tech" style="border-radius: 12px; box-shadow: 0px 0px 15px rgba(54, 188, 247, 0.3);" />
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
-    
+
+### ⚡ Tech Stack & Skills
+
+  <!-- Hanya menampilkan HTML, PHP, Laravel, dan IoT/Hardware pendukung -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,php,laravel,arduino,raspberrypi,git,github,vscode" alt="Skill Icons" />
+  </a>
+
+  <p><code>HTML5</code> • <code>PHP</code> • <code>Laravel</code> • <code>Internet of Things (IoT)</code></p>
+
+</div>
+
+---
+
+### 📊 GitHub Stats & Metrics
+
+<div align="center">
+  <p>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Acengwildan-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acengwildan-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </p>
+  
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Acengwildan-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=100&section=footer" />
 </div>
