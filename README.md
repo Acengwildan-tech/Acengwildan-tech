@@ -1,38 +1,22 @@
 <div align="center">
 
-  <!-- Typing SVG Banner -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Hello+World!+👋;I'm+Aceng+Wildan+Laksana;Full-Stack+Web+Developer+🚀" alt="Typing SVG" />
+  <!-- Efek mengetik ala terminal -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=26&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=root@aceng-wildan:~#+whoami;root@aceng-wildan:~#+initializing+backend...;Welcome+to+my+digital+universe+⚡" alt="Terminal Typing" />
 
-  <br>
-
-  <!-- Profile View Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Acengwildan-tech&label=Profile+Views&color=36BCF7&style=for-the-badge" alt="Visitors" />
-  
-  <img src="https://img.shields.io/badge/Status-Coding%20with%20Coffee%20☕-36BCF7?style=for-the-badge&logo=akoast&logoColor=white" alt="Status" />
+  <p><code>[STATUS: SYSTEM ONLINE] • [LANG: PHP/LARAVEL] • [LOCATION: INDONESIA 🇮🇩]</code></p>
 
 </div>
 
 ---
 
-### 💡 About Me
+### 💻 system_info.sh
 
-<table align="center">
-<tr>
-<td width="50%">
-
-- 🔭 **Current Focus:** Building robust web applications with **Laravel & PHP**.
-- 🌱 **Exploring:** Advanced Backend Architectures & Modern Frontend Integration.
-- ⚡ **Fun Fact:** I turn coffee into clean, efficient code!
-- 📫 **Reach me:** [Email Me](mailto:your-email@example.com)
-
-</td>
-<td width="50%">
-
-```json
-{
-  "name": "Aceng Wildan Laksana",
-  "role": "Web Developer",
-  "stack": ["HTML", "PHP", "Laravel", "JavaScript"],
-  "location": "Indonesia 🇮🇩",
-  "status": "Available for exciting projects"
-}
+```bash
+aceng@portfolio:~$ cat about_me.txt
+--------------------------------------------------
+> Name        : Aceng Wildan Laksana
+> Role        : Full-Stack Web Developer
+> Core Stack  : HTML, PHP, Laravel, MySQL
+> Philosophy  : "Write clean code, drink coffee, deploy perfection."
+--------------------------------------------------
+aceng@portfolio:~$
