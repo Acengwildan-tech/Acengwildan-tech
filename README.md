@@ -54,10 +54,6 @@
 ### 📊 GitHub Stats & Metrics
 
 <div align="center">
-  <p>
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Acengwildan-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acengwildan-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </p>
   
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Acengwildan-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
