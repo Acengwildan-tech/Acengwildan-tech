@@ -9,12 +9,11 @@
 
   <h3>SKILLS🚀</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php," />
+    <img src="https://skillicons.dev/icons?i=html,laravel,php," />
   </a>
 </div>
 
 
 <div align="center">
     
-  ![snake gif](https://github.com/RafkaJulianee/Acengwildan-tech/blob/output/github-snake-dark.svg)
 </div>
