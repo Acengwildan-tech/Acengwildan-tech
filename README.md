@@ -42,7 +42,7 @@
 
   <!-- Hanya menampilkan HTML, PHP, Laravel, dan IoT/Hardware pendukung -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,php,laravel,arduino,raspberrypi,git,github,vscode" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=html,php,laravel,arduino,github,vscode" alt="Skill Icons" />
   </a>
 
   <p><code>HTML5</code> • <code>PHP</code> • <code>Laravel</code> • <code>Internet of Things (IoT)</code></p>
