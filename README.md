@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner Nama -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Hello+World!+👋;I'm+Aceng+Wildan+Laksana;Web+Developer+&+IoT+Enthusiast+🤖" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Hello+World!+👋;I'm+Aceng+Wildan+Laksana;Web+Developer+&+IoT+Enthusiast+💻" alt="Typing SVG" />
 
   <br>
 
@@ -13,7 +13,7 @@
 
 ---
 
-### 🤖 About Me
+### 🐱 About Me
 
 <table align="center">
 <tr>
@@ -22,13 +22,13 @@
 - 🔭 **Currently Working On:** Integrating Web Dashboards with IoT Hardware.
 - 🌱 **Learning & Exploring:** Advanced Microcontrollers & Laravel Ecosystem.
 - 💡 **Core Passion:** Connecting the physical world (IoT) with powerful web backends (PHP/Laravel).
-- ☕ **Fun Fact:** Automating things around the house just because I can!
+- ☕ **Fun Fact:** Coding intensely until late at night just like this!
 
 </td>
 <td width="40%" align="center">
 
-  <!-- Ilustrasi Robot Futuristik (menggantikan gaya karakter pixel/game) -->
-  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=400&auto=format&fit=crop" width="220px" alt="Robot Tech" style="border-radius: 12px; box-shadow: 0px 0px 15px rgba(54, 188, 247, 0.3);" />
+  <!-- Gambar Kucing Coding yang Anda berikan -->
+  <img width="260" alt="Coding Cat" src="https://github.com/user-attachments/assets/fdadf993-3540-4cea-a4d7-be590d1b1e0a" style="border-radius: 12px; box-shadow: 0px 0px 15px rgba(54, 188, 247, 0.3);" />
 
 </td>
 </tr>
@@ -54,7 +54,6 @@
 ### 📊 GitHub Stats & Metrics
 
 <div align="center">
-  
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Acengwildan-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </p>
