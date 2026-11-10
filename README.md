@@ -1,22 +1,20 @@
+
+
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hello+World!+👋;I'm+Laksana+Wildan+Laksana" alt="Typing SVG" />
 
-  <!-- Efek mengetik ala terminal -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=26&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=root@aceng-wildan:~#+whoami;root@aceng-wildan:~#+initializing+backend...;Welcome+to+my+digital+universe+⚡" alt="Terminal Typing" />
 
-  <p><code>[STATUS: SYSTEM ONLINE] • [LANG: PHP/LARAVEL] • [LOCATION: INDONESIA 🇮🇩]</code></p>
 
+  ![Visitors](https://komarev.com/ghpvc/?username=Acengwildan-tech&label=Profile+views&color=0e75b6&style=flat)  
+
+  <h3>SKILLS🚀</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,php,laravel," />
+  </a>
 </div>
 
----
 
-### 💻 system_info.sh
-
-```bash
-aceng@portfolio:~$ cat about_me.txt
---------------------------------------------------
-> Name        : Aceng Wildan Laksana
-> Role        : Full-Stack Web Developer
-> Core Stack  : HTML, PHP, Laravel, MySQL
-> Philosophy  : "Write clean code, drink coffee, deploy perfection."
---------------------------------------------------
-aceng@portfolio:~$
+<div align="center">
+    
+  ![snake gif](https://github.com/RafkaJulianee/RafkaJulianee/blob/output/github-snake-dark.svg)
+</div>
