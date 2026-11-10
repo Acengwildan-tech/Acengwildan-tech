@@ -9,7 +9,7 @@
 
   <h3>SKILLS🚀</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,php,laravel," />
+    <img src="https://skillicons.dev/icons?i=laravel," />
   </a>
 </div>
 
