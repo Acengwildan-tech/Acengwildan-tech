@@ -13,15 +13,15 @@
 
 ---
 
-### 🐱 About Me
+###  About Me
 
 <table align="center">
 <tr>
 <td width="60%">
 
-- 🔭 **Currently Working On:** Integrating Web Dashboards with IoT Hardware.
-- 🌱 **Learning & Exploring:** Advanced Microcontrollers & Laravel Ecosystem.
-- 💡 **Core Passion:** Connecting the physical world (IoT) with powerful web backends (PHP/Laravel).
+-  **Currently Working On:** Integrating Web Dashboards with IoT Hardware.
+-  **Learning & Exploring:** Advanced Microcontrollers & Laravel Ecosystem.
+-  **Core Passion:** Connecting the physical world (IoT) with powerful web backends (PHP/Laravel).
 
 </td>
 <td width="40%" align="center">
@@ -37,7 +37,7 @@
 
 <div align="center">
 
-### ⚡ Tech Stack & Skills
+###  Tech Stack & Skills
 
   <!-- Hanya menampilkan HTML, PHP, Laravel, dan IoT/Hardware pendukung -->
   <a href="https://skillicons.dev">
@@ -50,7 +50,7 @@
 
 ---
 
-### 📊 GitHub Stats & Metrics
+###  GitHub Stats & Metrics
 
 <div align="center">
   <p>
