@@ -19,7 +19,7 @@
 
 -  **Currently Working On:** Integrating Web Dashboards with IoT Hardware.
 -  **Learning & Exploring:** Advanced Microcontrollers & Laravel Ecosystem.
--  **Core Passion:** Connecting the physical world (IoT) with powerful web backends (PHP/Laravel)
+-  **Core Passion:** Connecting the physical world (IoT) with powerful web backends (PHP/Laravel).
 
 </td>
 <td width="40%" align="center">
