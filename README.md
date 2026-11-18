@@ -17,8 +17,8 @@
 <tr>
 <td width="60%">
 
--  **Currently Working On:** Integrating Web Dashboards with IoT Hardware
--  **Learning & Exploring:** Advanced Microcontrollers & Laravel Ecosystem
+-  **Currently Working On:** Integrating Web Dashboards with IoT Hardware.
+-  **Learning & Exploring:** Advanced Microcontrollers & Laravel Ecosystem.
 -  **Core Passion:** Connecting the physical world (IoT) with powerful web backends (PHP/Laravel)
 
 </td>
